@@ -1,7 +1,6 @@
 {
-  "name": "mern-auth",
+  "name": "mern-sandbox",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +22,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickBr0wn/mern-sandbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RickBr0wn/mern-sandbox/issues"
+  },
+  "homepage": "https://github.com/RickBr0wn/mern-sandbox#readme",
+  "description": ""
 }
