@@ -11,7 +11,7 @@
   "author": "Rick Brown <ricky.brown.00@gmail.com> (https://github.com/RickBr0wn/minimal-react-boilerplate)",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
